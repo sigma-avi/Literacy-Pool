@@ -1,3 +1,19 @@
+
+
+
+![Screenshot (34)](https://github.com/sigma-avi/Literacy-Pool/assets/134030689/517fe31d-698b-4ad7-89d7-c71e90b4f74e)
+![Screenshot (35)](https://github.com/sigma-avi/Literacy-Pool/assets/134030689/decbb7e3-3ec6-483a-a769-7ef58d585054)
+![Screenshot (39)](https://github.com/sigma-avi/Literacy-Pool/assets/134030689/20ceb73c-4c69-44a4-bd35-05232db4976b)
+![Screenshot (38)](https://github.com/sigma-avi/Literacy-Pool/assets/134030689/7cffff09-c490-4132-bdbe-992677ef084b)
+![Screenshot (37)](https://github.com/sigma-avi/Literacy-Pool/assets/134030689/2b194517-a694-46a3-b397-f5538c5a9e23)
+![Screenshot (36)](https://github.com/sigma-avi/Literacy-Pool/assets/134030689/b5dd6ad5-45dd-4aa3-ba14-037eb750ac95)
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
